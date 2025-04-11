@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Women's Health</title>
+</head>
+<body>
+  <header>
+    <h1>Women's Health</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Reproductive Health</h2>
+      <p>Reproductive health refers to the health of the reproductive systems and the functions of individuals. It’s important for women to maintain a healthy reproductive system to ensure proper functioning and prevent diseases. Our aim is to educate and empower women about reproductive health and provide valuable resources for living a healthy lifestyle.</p>
+    </section>
+
+    <section>
+      <h2>Pregnancy</h2>
+      <p>Pregnancy is a complex and exciting journey for women. At each stage, from pre-conception to post-birth, we are here to provide guidance and resources for maintaining a healthy pregnancy. Whether you’re planning to conceive, expecting, or navigating postpartum care, we offer information that will help ensure you and your baby’s health.</p>
+    </section>
+
+    <section>
+      <h2>Stress Urinary Incontinence</h2>
+      <p>Stress urinary incontinence (SUI) is a condition that affects many women, especially during and after pregnancy. It involves the unintentional leakage of urine during physical activities such as coughing, sneezing, or exercising. We provide information on managing SUI, including lifestyle changes, treatments, and ways to improve your quality of life.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Women's Health. All rights reserved.</p>
+  </footer>
+</body>
+</html>
